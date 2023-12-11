@@ -1,3 +1,6 @@
+// Donna Quach, JavaScript 310B, Autumn 2023
+// Class 9 Exercises 
+
 // Example
 const createCounter = () => {
   let count = 0;
